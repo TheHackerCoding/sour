@@ -1,4 +1,4 @@
-# `sour`
+# sour
 <p align="center">
   <img src="gh-assets/header.gif">
 </p>
